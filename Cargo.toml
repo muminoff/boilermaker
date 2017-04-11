@@ -1,0 +1,6 @@
+[package]
+name = "boilermaker"
+version = "0.1.0"
+authors = ["muminoff <smuminov@gmail.com>"]
+
+[dependencies]
